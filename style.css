@@ -22,6 +22,9 @@ html, body {
   #about img {
     margin-top: 15%;
   }
+  #footer {
+    text-align: center;
+  }
 }
 
 .navbar {
@@ -198,4 +201,19 @@ html, body {
 /*CONTACT*/
 #contact {
   padding: 5rem 0;
+}
+
+/*FOOTER*/
+#footer {
+  padding: 3rem 0;
+  background-color: #484848;
+  color: white;
+}
+
+#footer a {
+  color: white;
+}
+
+#footer .fa {
+  padding: 5px;
 }
